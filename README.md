@@ -13,6 +13,8 @@ The project involves usage of the mysql-connector for creating a simple cart app
 ## Installation
 The installation is really simple , clone this repository and run the script . Required modules have to be installed and can be done by using the following:
 - pip install -r requirements.txt
+## Usage
+Post installation run Ful2.py
 
   
 
