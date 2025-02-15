@@ -1,0 +1,7 @@
+matplotlib==3.9.0
+mysql-connector-python==8.0.20
+numpy==1.26.3
+pyfiglet==0.8.post1
+tk==0.1.0
+tk-tools==0.16.0
+
