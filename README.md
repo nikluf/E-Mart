@@ -16,7 +16,7 @@ Python 3.7 or later ,  MySQL 8.0.35 or later
 The installation is really simple , clone this repository and run the script . Required modules have to be installed and can be done by using the following:
 - pip install -r requirements.txt
 ## Usage
-Post installation run ful2.py
-You will have to enter your Password to the MySQL server for it to create a local database.
+- Post installation run ful2.py
+- You will have to enter your Password to the MySQL server for it to create a local database.
 
   
