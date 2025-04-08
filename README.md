@@ -1,4 +1,4 @@
-# E-Nart Application
+# E-Mart Application
 
 The project involves usage of the mysql-connector for creating a simple cart application that stores all the available enteries in the database. Sql gives us the ease of consistency in data storage and unless the database is deleted by using terminal , on every run of the application an existing inventory is used which gets updated based on user interaction.
 
